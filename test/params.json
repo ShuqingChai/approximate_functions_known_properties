@@ -1,0 +1,22 @@
+{
+  "L": 20,
+  "algo": "gs",
+  "antithetic": false,
+  "bounds": [
+    0,
+    1,
+    0,
+    1
+  ],
+  "c": 0.1,
+  "d": 5,
+  "dataset": "linear",
+  "iters": 50,
+  "lr": 0.01,
+  "noise": "no_noise",
+  "noncvx": false,
+  "num_data": 500,
+  "output": "test",
+  "rounds": 100,
+  "seed": 42
+}
