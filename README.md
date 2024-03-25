@@ -1,5 +1,6 @@
 # Black Box Optimization on a Function with Known Properties
 
+*Actively working on updating the README.md and Report.pdf files.*
 
 ## Contains
 1. a script to train and evaluate a model for approximating a function with known properties,
